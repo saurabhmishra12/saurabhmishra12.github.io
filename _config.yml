@@ -18,16 +18,16 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Power and Performance
+title: Saurabh Mishra Blog 
 email: saurabhmshr12@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  This blog is an attempt to capture different 
-  topics related to power and performance of chips.
-baseurl: "/power" # the subpath of your site, e.g. /blog
+  A place to present distilled information related
+  to various topics I feel worth sharing.
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://saurabhmishra12.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: 
 github_username:  saurabhmishra12
-
+linkedin_username: saurabh-mishra-34292a16
 # Build settings
 theme: minima
 plugins:
